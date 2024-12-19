@@ -1,0 +1,13 @@
+{
+  "name": "wsnh",
+  "version": "1.0.0",
+  "description": "Script to move cursor at intervals",
+  "main": "moveCursor.js",
+  "scripts": {
+    "start": "node moveCursor.js"
+  },
+  "dependencies": {
+    "robotjs": "^0.6.0",
+    "uuid": "^11.0.3"
+  }
+}
